@@ -225,6 +225,7 @@ function create_config( )
       "stats",
       "version",
       "time",
+      "hello",
       "weather",
       "xkcd",
       "youtube" },
